@@ -34,7 +34,7 @@ interface Content {
 
 export function Post({post}:PostProps) {
 
-    const [comments, setComments] = useState([])
+    const [comments, setComments] = useState<string[]>([])
 
     const [newCommentText, setNewCommentText] = useState('')
 
