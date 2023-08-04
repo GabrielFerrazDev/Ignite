@@ -17,7 +17,7 @@ const posts: PostType[] = [
       content:[ 
         {type:'paragraph' , content: 'E ai, galera?'},
         {type:'paragraph' , content: 'Acabei de subir mais um projeto no meu portfolio. É um layout que fiz na NLW spacetime.'},
-        {type:'link' , content: 'Link do projeto'}],
+        {type:'link' , content:'Link do projeto'}],
         publishedAt: new Date('2022-12-03 14:31'),
   }, 
   {
