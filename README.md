@@ -6,7 +6,7 @@
 
 O projeto foi feito com base no curso "Ignite" da RocketSeat, consiste em um layout típico de rede social, possuindo funcionalidades como apagar ou excluir comentários e deixar "likes". 
 
-Além da minha própria imagem, para tornar o projeto mais crível e verossimilhante, utilizel também a imagem do meu amado amigo [Lucas Adorno](https://github.com/LucasAdorno), confira também os projetos dele !
+Além da minha própria imagem, para tornar o projeto mais crível e verossimilhante, utilizel também a imagem do meu amado amigo [Lucas Adorno](https://github.com/LucasAdorno), confira também os projetos dele!
 
 ---
 ## Tecnologias
