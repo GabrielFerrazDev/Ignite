@@ -1,0 +1,17 @@
+/*Ao trabalhar com css modules, tentamos utilizar apenas class
+selectors, evitando ID ou mesmo element selector
+devemos declarar a classe com 
+className ao inves de apenas class como no css normal*/
+
+.header {
+    background-color: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+/* Lembrete!!!! 
+css não precisa de export, apenas o comando import no arquivo necessário*/
+
+.header img {
+    height: 2.25rem;
+}
