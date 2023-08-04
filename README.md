@@ -1,7 +1,7 @@
 <strong><h1 align="center"> Ignite </h1></strong>
 
 <p align="center">
-  <img alt="" src="./assets/readmebg.PNG" width="50%">
+  <img alt="" src="./src/assets/readmebg.PNG" width="50%">
 </p>
 
 O projeto foi feito com base no curso "Ignite" da RocketSeat, consiste em um layout típico de rede social, possuindo funcionalidades como apagar ou excluir comentários e deixar "likes". 
