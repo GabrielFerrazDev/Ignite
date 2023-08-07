@@ -8,7 +8,9 @@
     "baseUrl": ".",
     "paths": {
       "*": ["*", "*.tsx"]
-    },
+    },"scripts": {
+      "start": "node -r tsconfig-paths/register -r ts-node/register ./dist/app.js",
+      },
 
     /* Bundler mode */
     "moduleResolution": "bundler",
