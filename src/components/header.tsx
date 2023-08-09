@@ -1,7 +1,7 @@
 import styles from "./header.module.css"
 //Ao importar styles, usaremos a class tal qual um elemento javascript dentro do html, da mesma maneira que acessamos a props no arquivo principal
 //O nome que virá logo após "styles" será o nome da função a ser importada
-import IgniteLogo from '../assets/ignite-logo.svg';
+import IgniteLogo from '../assets/Ignite-logo.svg';
 
 export function Header() {
     return (
